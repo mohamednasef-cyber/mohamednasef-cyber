@@ -15,8 +15,8 @@ Computer Science graduate focused on cybersecurity and penetration testing, with
 - FortiOS, Python and Linux
 
 ## Certifications & Training
+- [Fortinet NSE 4 Certified in FortiOS](https://www.credly.com/badges/1d5f1e17-a6ce-4f1c-aec8-c66bfc35cd0d)
 
-- Fortinet NSE 4 Certified in FortiOS
 - 120-hour OT/ICS Cybersecurity, GRC & Penetration Testing programme
 - Practical training through Hack The Box and PortSwigger Web Security Academy
 
