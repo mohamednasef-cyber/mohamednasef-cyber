@@ -1,16 +1,32 @@
-## Hi there 👋
+# Mohamed Nasef
 
-<!--
-**mi29707051602752-cmyk/mi29707051602752-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Penetration Tester | Fortinet NSE 4 Certified
 
-Here are some ideas to get you started:
+Computer Science graduate focused on cybersecurity and penetration testing, with hands-on training in vulnerability assessment, Active Directory security, and OT/ICS cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Penetration Testing
+- Vulnerability Assessment
+- Active Directory Security
+- Network Security
+- OT/ICS Cybersecurity
+- Kali Linux, Nmap, Burp Suite, Metasploit and Wireshark
+- FortiOS, Python and Linux
+
+## Certifications & Training
+
+- Fortinet NSE 4 Certified in FortiOS
+- 120-hour OT/ICS Cybersecurity, GRC & Penetration Testing programme
+- Practical training through Hack The Box and PortSwigger Web Security Academy
+
+## Featured Project
+
+### Argus Studio
+AI-assisted penetration testing platform designed to support reconnaissance, vulnerability assessment, security testing and report generation using local AI models and Kali Linux tools.
+
+[View Argus on GitHub](https://github.com/PhilopaterSh/Argus-Digilians)
+
+## Career Goal
+
+Seeking an entry-level cybersecurity opportunity where I can apply my technical knowledge, gain practical experience and contribute to improving system security.
