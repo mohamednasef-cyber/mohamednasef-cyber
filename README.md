@@ -1,4 +1,4 @@
-# Mohamed Nasef
+# Mohamed Ibrahim NaseF
 
 ### Junior Penetration Tester | Fortinet NSE 4 Certified
 
@@ -15,15 +15,17 @@ Computer Science graduate focused on cybersecurity and penetration testing, with
 - FortiOS, Python and Linux
 
 ## Certifications & Training
-- [Fortinet NSE 4 Certified in FortiOS](https://www.credly.com/badges/1d5f1e17-a6ce-4f1c-aec8-c66bfc35cd0d)
 
+- [Fortinet NSE 4 Certified in FortiOS](https://www.credly.com/badges/1d5f1e17-a6ce-4f1c-aec8-c66bfc35cd0d)
 - 120-hour OT/ICS Cybersecurity, GRC & Penetration Testing programme
 - Practical training through Hack The Box and PortSwigger Web Security Academy
 
 ## Featured Project
 
 ### Argus Studio
+
 AI-assisted penetration testing platform designed to support reconnaissance, vulnerability assessment, security testing and report generation using local AI models and Kali Linux tools.
+
 [View Argus on GitHub](https://github.com/mohamednasef-cyber/Argus-Digilians)
 
 ## Career Goal
