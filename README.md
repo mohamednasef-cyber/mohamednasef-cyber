@@ -24,8 +24,7 @@ Computer Science graduate focused on cybersecurity and penetration testing, with
 
 ### Argus Studio
 AI-assisted penetration testing platform designed to support reconnaissance, vulnerability assessment, security testing and report generation using local AI models and Kali Linux tools.
-
-[View Argus on GitHub](https://github.com/mi29707051602752-cmyk/Argus-Digilians)
+[View Argus on GitHub](https://github.com/mohamednasef-cyber/Argus-Digilians)
 
 ## Career Goal
 
